@@ -106,7 +106,7 @@ button:hover{
 }
 .model{
     height: 560px;
-    position: absolute;
+    position:relative;
     bottom: 0px;
     left: 70%;
     transform: translateX(-70%);
